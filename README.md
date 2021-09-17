@@ -22,3 +22,4 @@ A git push [variable name] master command sends committed changes of the master 
 * `git clone` - *Usage:* `git clone [url]`
 The git clone command is used to obtain a repository from existing URL.
 
+For more commands and information click [here](https://codetechfry.com/git-bash-commands)
